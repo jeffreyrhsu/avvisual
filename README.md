@@ -1,3 +1,6 @@
 # avvisual
 
-Jeffrey Hsu, RCCC Senior High AV Team
+Propresenter Controls
+F1 == blank screen
+ctrl+shift+enter == new slide
+ctrl+enter == new line
